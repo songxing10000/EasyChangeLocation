@@ -19,7 +19,7 @@
 		04E827A21EAEF2B10016DCAB /* p3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279D1EAEF2B10016DCAB /* p3.gpx */; };
 		04E827A31EAEF2B10016DCAB /* p4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279E1EAEF2B10016DCAB /* p4.gpx */; };
 		04E827A41EAEF2B10016DCAB /* p5.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279F1EAEF2B10016DCAB /* p5.gpx */; };
-		04E827A51EAEF2B10016DCAB /* p6.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E827A01EAEF2B10016DCAB /* p6.gpx */; };
+		04E827A51EAEF2B10016DCAB /* 白鹿邮政支局.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E827A01EAEF2B10016DCAB /* 白鹿邮政支局.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,7 +39,7 @@
 		04E8279D1EAEF2B10016DCAB /* p3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p3.gpx; sourceTree = "<group>"; };
 		04E8279E1EAEF2B10016DCAB /* p4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p4.gpx; sourceTree = "<group>"; };
 		04E8279F1EAEF2B10016DCAB /* p5.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p5.gpx; sourceTree = "<group>"; };
-		04E827A01EAEF2B10016DCAB /* p6.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p6.gpx; sourceTree = "<group>"; };
+		04E827A01EAEF2B10016DCAB /* 白鹿邮政支局.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "白鹿邮政支局.gpx"; sourceTree = "<group>"; };
 		79AA625FDDAB5E072B4F5CB0 /* libPods-EasyChangeLocation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-EasyChangeLocation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -80,7 +80,7 @@
 				04E8279D1EAEF2B10016DCAB /* p3.gpx */,
 				04E8279E1EAEF2B10016DCAB /* p4.gpx */,
 				04E8279F1EAEF2B10016DCAB /* p5.gpx */,
-				04E827A01EAEF2B10016DCAB /* p6.gpx */,
+				04E827A01EAEF2B10016DCAB /* 白鹿邮政支局.gpx */,
 				04698F001E382BDE00530AA9 /* AppDelegate.h */,
 				04698F011E382BDE00530AA9 /* AppDelegate.m */,
 				04698F031E382BDE00530AA9 /* ViewController.h */,
@@ -142,7 +142,7 @@
 				TargetAttributes = {
 					04698EF91E382BDE00530AA9 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = S6ZP88XTH7;
+						DevelopmentTeam = T6T3P2C3PK;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -152,6 +152,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -178,7 +179,7 @@
 				04698F151E382C4000530AA9 /* p1.gpx in Resources */,
 				04698F081E382BDE00530AA9 /* Main.storyboard in Resources */,
 				04E827A31EAEF2B10016DCAB /* p4.gpx in Resources */,
-				04E827A51EAEF2B10016DCAB /* p6.gpx in Resources */,
+				04E827A51EAEF2B10016DCAB /* 白鹿邮政支局.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,7 +310,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = S6ZP88XTH7;
+				DEVELOPMENT_TEAM = T6T3P2C3PK;
 				INFOPLIST_FILE = EasyChangeLocation/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -323,7 +324,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = S6ZP88XTH7;
+				DEVELOPMENT_TEAM = T6T3P2C3PK;
 				INFOPLIST_FILE = EasyChangeLocation/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
