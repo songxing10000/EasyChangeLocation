@@ -18,7 +18,7 @@
 		04E827A11EAEF2B10016DCAB /* p2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279C1EAEF2B10016DCAB /* p2.gpx */; };
 		04E827A21EAEF2B10016DCAB /* p3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279D1EAEF2B10016DCAB /* p3.gpx */; };
 		04E827A31EAEF2B10016DCAB /* p4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279E1EAEF2B10016DCAB /* p4.gpx */; };
-		04E827A41EAEF2B10016DCAB /* p5.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279F1EAEF2B10016DCAB /* p5.gpx */; };
+		04E827A41EAEF2B10016DCAB /* 合生.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279F1EAEF2B10016DCAB /* 合生.gpx */; };
 		04E827A51EAEF2B10016DCAB /* 白鹿邮政支局.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E827A01EAEF2B10016DCAB /* 白鹿邮政支局.gpx */; };
 /* End PBXBuildFile section */
 
@@ -38,7 +38,7 @@
 		04E8279C1EAEF2B10016DCAB /* p2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p2.gpx; sourceTree = "<group>"; };
 		04E8279D1EAEF2B10016DCAB /* p3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p3.gpx; sourceTree = "<group>"; };
 		04E8279E1EAEF2B10016DCAB /* p4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p4.gpx; sourceTree = "<group>"; };
-		04E8279F1EAEF2B10016DCAB /* p5.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p5.gpx; sourceTree = "<group>"; };
+		04E8279F1EAEF2B10016DCAB /* 合生.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "合生.gpx"; sourceTree = "<group>"; };
 		04E827A01EAEF2B10016DCAB /* 白鹿邮政支局.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "白鹿邮政支局.gpx"; sourceTree = "<group>"; };
 		79AA625FDDAB5E072B4F5CB0 /* libPods-EasyChangeLocation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-EasyChangeLocation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -79,7 +79,7 @@
 				04E8279C1EAEF2B10016DCAB /* p2.gpx */,
 				04E8279D1EAEF2B10016DCAB /* p3.gpx */,
 				04E8279E1EAEF2B10016DCAB /* p4.gpx */,
-				04E8279F1EAEF2B10016DCAB /* p5.gpx */,
+				04E8279F1EAEF2B10016DCAB /* 合生.gpx */,
 				04E827A01EAEF2B10016DCAB /* 白鹿邮政支局.gpx */,
 				04698F001E382BDE00530AA9 /* AppDelegate.h */,
 				04698F011E382BDE00530AA9 /* AppDelegate.m */,
@@ -171,7 +171,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04E827A41EAEF2B10016DCAB /* p5.gpx in Resources */,
+				04E827A41EAEF2B10016DCAB /* 合生.gpx in Resources */,
 				04E827A11EAEF2B10016DCAB /* p2.gpx in Resources */,
 				04698F0D1E382BDE00530AA9 /* LaunchScreen.storyboard in Resources */,
 				04E827A21EAEF2B10016DCAB /* p3.gpx in Resources */,
