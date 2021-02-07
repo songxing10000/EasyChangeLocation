@@ -13,13 +13,8 @@
 		04698F081E382BDE00530AA9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04698F061E382BDE00530AA9 /* Main.storyboard */; };
 		04698F0A1E382BDE00530AA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04698F091E382BDE00530AA9 /* Assets.xcassets */; };
 		04698F0D1E382BDE00530AA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04698F0B1E382BDE00530AA9 /* LaunchScreen.storyboard */; };
-		04698F151E382C4000530AA9 /* p1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04698F141E382C4000530AA9 /* p1.gpx */; };
 		04698F1D1E38390800530AA9 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04698F1C1E38390800530AA9 /* MapKit.framework */; };
-		04E827A11EAEF2B10016DCAB /* p2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279C1EAEF2B10016DCAB /* p2.gpx */; };
-		04E827A21EAEF2B10016DCAB /* p3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279D1EAEF2B10016DCAB /* p3.gpx */; };
-		04E827A31EAEF2B10016DCAB /* p4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279E1EAEF2B10016DCAB /* p4.gpx */; };
 		04E827A41EAEF2B10016DCAB /* 合生.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279F1EAEF2B10016DCAB /* 合生.gpx */; };
-		04E827A51EAEF2B10016DCAB /* 白鹿邮政支局.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E827A01EAEF2B10016DCAB /* 白鹿邮政支局.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,13 +28,8 @@
 		04698F091E382BDE00530AA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04698F0C1E382BDE00530AA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04698F0E1E382BDE00530AA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		04698F141E382C4000530AA9 /* p1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p1.gpx; sourceTree = "<group>"; };
 		04698F1C1E38390800530AA9 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
-		04E8279C1EAEF2B10016DCAB /* p2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p2.gpx; sourceTree = "<group>"; };
-		04E8279D1EAEF2B10016DCAB /* p3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p3.gpx; sourceTree = "<group>"; };
-		04E8279E1EAEF2B10016DCAB /* p4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = p4.gpx; sourceTree = "<group>"; };
 		04E8279F1EAEF2B10016DCAB /* 合生.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "合生.gpx"; sourceTree = "<group>"; };
-		04E827A01EAEF2B10016DCAB /* 白鹿邮政支局.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "白鹿邮政支局.gpx"; sourceTree = "<group>"; };
 		79AA625FDDAB5E072B4F5CB0 /* libPods-EasyChangeLocation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-EasyChangeLocation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -75,12 +65,7 @@
 		04698EFC1E382BDE00530AA9 /* EasyChangeLocation */ = {
 			isa = PBXGroup;
 			children = (
-				04698F141E382C4000530AA9 /* p1.gpx */,
-				04E8279C1EAEF2B10016DCAB /* p2.gpx */,
-				04E8279D1EAEF2B10016DCAB /* p3.gpx */,
-				04E8279E1EAEF2B10016DCAB /* p4.gpx */,
 				04E8279F1EAEF2B10016DCAB /* 合生.gpx */,
-				04E827A01EAEF2B10016DCAB /* 白鹿邮政支局.gpx */,
 				04698F001E382BDE00530AA9 /* AppDelegate.h */,
 				04698F011E382BDE00530AA9 /* AppDelegate.m */,
 				04698F031E382BDE00530AA9 /* ViewController.h */,
@@ -172,14 +157,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				04E827A41EAEF2B10016DCAB /* 合生.gpx in Resources */,
-				04E827A11EAEF2B10016DCAB /* p2.gpx in Resources */,
 				04698F0D1E382BDE00530AA9 /* LaunchScreen.storyboard in Resources */,
-				04E827A21EAEF2B10016DCAB /* p3.gpx in Resources */,
 				04698F0A1E382BDE00530AA9 /* Assets.xcassets in Resources */,
-				04698F151E382C4000530AA9 /* p1.gpx in Resources */,
 				04698F081E382BDE00530AA9 /* Main.storyboard in Resources */,
-				04E827A31EAEF2B10016DCAB /* p4.gpx in Resources */,
-				04E827A51EAEF2B10016DCAB /* 白鹿邮政支局.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
