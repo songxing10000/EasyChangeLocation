@@ -51,7 +51,7 @@
          </BuildableReference>
       </BuildableProductRunnable>
       <LocationScenarioReference
-         identifier = "../../EasyChangeLocation/&#x5408;&#x751f;.gpx"
+         identifier = "../../EasyChangeLocation/hs.gpx"
          referenceType = "0">
       </LocationScenarioReference>
    </LaunchAction>

@@ -14,7 +14,9 @@
 		04698F0A1E382BDE00530AA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04698F091E382BDE00530AA9 /* Assets.xcassets */; };
 		04698F0D1E382BDE00530AA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04698F0B1E382BDE00530AA9 /* LaunchScreen.storyboard */; };
 		04698F1D1E38390800530AA9 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04698F1C1E38390800530AA9 /* MapKit.framework */; };
-		04E827A41EAEF2B10016DCAB /* 合生.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279F1EAEF2B10016DCAB /* 合生.gpx */; };
+		04E827A41EAEF2B10016DCAB /* hs.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279F1EAEF2B10016DCAB /* hs.gpx */; };
+		981A6B5525D375EA0008DEEF /* 威远连界邮政支局 .gpx in Resources */ = {isa = PBXBuildFile; fileRef = 981A6B5425D375EA0008DEEF /* 威远连界邮政支局 .gpx */; };
+		98608E1825D3A35100FAFAB6 /* 威远高石邮政所.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 98608E1725D3A35100FAFAB6 /* 威远高石邮政所.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,8 +31,10 @@
 		04698F0C1E382BDE00530AA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04698F0E1E382BDE00530AA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04698F1C1E38390800530AA9 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
-		04E8279F1EAEF2B10016DCAB /* 合生.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "合生.gpx"; sourceTree = "<group>"; };
+		04E8279F1EAEF2B10016DCAB /* hs.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = hs.gpx; sourceTree = "<group>"; };
 		79AA625FDDAB5E072B4F5CB0 /* libPods-EasyChangeLocation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-EasyChangeLocation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		981A6B5425D375EA0008DEEF /* 威远连界邮政支局 .gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "威远连界邮政支局 .gpx"; sourceTree = "<group>"; };
+		98608E1725D3A35100FAFAB6 /* 威远高石邮政所.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "威远高石邮政所.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +69,9 @@
 		04698EFC1E382BDE00530AA9 /* EasyChangeLocation */ = {
 			isa = PBXGroup;
 			children = (
-				04E8279F1EAEF2B10016DCAB /* 合生.gpx */,
+				04E8279F1EAEF2B10016DCAB /* hs.gpx */,
+				981A6B5425D375EA0008DEEF /* 威远连界邮政支局 .gpx */,
+				98608E1725D3A35100FAFAB6 /* 威远高石邮政所.gpx */,
 				04698F001E382BDE00530AA9 /* AppDelegate.h */,
 				04698F011E382BDE00530AA9 /* AppDelegate.m */,
 				04698F031E382BDE00530AA9 /* ViewController.h */,
@@ -156,7 +162,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04E827A41EAEF2B10016DCAB /* 合生.gpx in Resources */,
+				981A6B5525D375EA0008DEEF /* 威远连界邮政支局 .gpx in Resources */,
+				98608E1825D3A35100FAFAB6 /* 威远高石邮政所.gpx in Resources */,
+				04E827A41EAEF2B10016DCAB /* hs.gpx in Resources */,
 				04698F0D1E382BDE00530AA9 /* LaunchScreen.storyboard in Resources */,
 				04698F0A1E382BDE00530AA9 /* Assets.xcassets in Resources */,
 				04698F081E382BDE00530AA9 /* Main.storyboard in Resources */,
