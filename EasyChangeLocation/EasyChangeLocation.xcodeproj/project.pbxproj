@@ -17,6 +17,7 @@
 		04E827A41EAEF2B10016DCAB /* hs.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 04E8279F1EAEF2B10016DCAB /* hs.gpx */; };
 		981A6B5525D375EA0008DEEF /* 威远连界邮政支局 .gpx in Resources */ = {isa = PBXBuildFile; fileRef = 981A6B5425D375EA0008DEEF /* 威远连界邮政支局 .gpx */; };
 		98608E1825D3A35100FAFAB6 /* 威远高石邮政所.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 98608E1725D3A35100FAFAB6 /* 威远高石邮政所.gpx */; };
+		98D1117425F899DB008E9E59 /* 中国建设银行(内江分行火车站支行).gpx in Resources */ = {isa = PBXBuildFile; fileRef = 98D1117325F899DB008E9E59 /* 中国建设银行(内江分行火车站支行).gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		79AA625FDDAB5E072B4F5CB0 /* libPods-EasyChangeLocation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-EasyChangeLocation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		981A6B5425D375EA0008DEEF /* 威远连界邮政支局 .gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "威远连界邮政支局 .gpx"; sourceTree = "<group>"; };
 		98608E1725D3A35100FAFAB6 /* 威远高石邮政所.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "威远高石邮政所.gpx"; sourceTree = "<group>"; };
+		98D1117325F899DB008E9E59 /* 中国建设银行(内江分行火车站支行).gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "中国建设银行(内江分行火车站支行).gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				04E8279F1EAEF2B10016DCAB /* hs.gpx */,
 				981A6B5425D375EA0008DEEF /* 威远连界邮政支局 .gpx */,
 				98608E1725D3A35100FAFAB6 /* 威远高石邮政所.gpx */,
+				98D1117325F899DB008E9E59 /* 中国建设银行(内江分行火车站支行).gpx */,
 				04698F001E382BDE00530AA9 /* AppDelegate.h */,
 				04698F011E382BDE00530AA9 /* AppDelegate.m */,
 				04698F031E382BDE00530AA9 /* ViewController.h */,
@@ -165,6 +168,7 @@
 				981A6B5525D375EA0008DEEF /* 威远连界邮政支局 .gpx in Resources */,
 				98608E1825D3A35100FAFAB6 /* 威远高石邮政所.gpx in Resources */,
 				04E827A41EAEF2B10016DCAB /* hs.gpx in Resources */,
+				98D1117425F899DB008E9E59 /* 中国建设银行(内江分行火车站支行).gpx in Resources */,
 				04698F0D1E382BDE00530AA9 /* LaunchScreen.storyboard in Resources */,
 				04698F0A1E382BDE00530AA9 /* Assets.xcassets in Resources */,
 				04698F081E382BDE00530AA9 /* Main.storyboard in Resources */,
